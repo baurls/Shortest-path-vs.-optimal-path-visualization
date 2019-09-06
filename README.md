@@ -1,6 +1,5 @@
 # Shortest path vs. optimal path visualization 
-_or_
-# Is the IPO-office cut off the UMass campus?
+_or:_  *Is the IPO-office cut off the UMass campus?*
 
 ## The idea
 The idea for this small project was genereated while I walked across the UMas-Campus realizing that there are some spots which are near by map but far if you actually walk there. I tried to find out this places algorithmically by comparing the shortest paths to the actual walking distances. Enjoy the plots
