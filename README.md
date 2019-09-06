@@ -12,7 +12,7 @@ I tried to visually highlight spots on a map which are _difficult to reach_. In 
 ### Example Input  
 ![input](https://raw.githubusercontent.com/baurls/Shortest-path-vs.-optimal-path-visualization-/master/map_umass.png "Normal distances")
 
-### 'normal' distances form shortest paths:  
+### 'normal' distances from shortest paths:  
 ![normal_distances](https://raw.githubusercontent.com/baurls/Shortest-path-vs.-optimal-path-visualization-/master/results/from_campus_center_shortest.png "Normal distances")
 
 ### difficult to reach map:  
