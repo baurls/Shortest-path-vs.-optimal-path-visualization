@@ -10,10 +10,10 @@ I tried to visually highlight spots on a map which are _difficult to reach_. In 
 ## Some quick results
 
 ### Example Input  
-![input](https://raw.githubusercontent.com/baurls/Shortest-path-vs.-optimal-path-visualization-/master/map_umass.png "Normal distances")
+![input](https://raw.githubusercontent.com/baurls/Shortest-path-vs.-optimal-path-visualization/master/map_umass.png "Normal distances")
 
 ### 'normal' distances from shortest paths:  
-![normal_distances](https://raw.githubusercontent.com/baurls/Shortest-path-vs.-optimal-path-visualization-/master/results/from_campus_center_shortest.png "Normal distances")
+![normal_distances](https://raw.githubusercontent.com/baurls/Shortest-path-vs.-optimal-path-visualization/master/results/from_campus_center_shortest.png "Normal distances")
 
 ### difficult to reach map:  
-![normal_distances](https://raw.githubusercontent.com/baurls/Shortest-path-vs.-optimal-path-visualization-/master/results/from_north_west_deviance.png "Normal distances")
+![normal_distances](https://raw.githubusercontent.com/baurls/Shortest-path-vs.-optimal-path-visualization/master/results/from_north_west_deviance.png "Normal distances")
